@@ -7,7 +7,7 @@
 }
 
 .user-card-bk {
-    background-image: url(/static/images/seven.jpg);
+    background-image: url(/bilibili_card/static/images/seven.jpg);
     background-size: cover;
     width: 100%;
     height: 85px;
